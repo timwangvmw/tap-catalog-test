@@ -7,4 +7,4 @@ spec:
     displayName: Tim Wang
     email: yunw1@vmware.com
     picture: https://example.com/staff/jenny-with-party-hat.jpeg
-  memberOf: [default-team,team-b, employees]
+  memberOf: [default-team, team-b, employees]
